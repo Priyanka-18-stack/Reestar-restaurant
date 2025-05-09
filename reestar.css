@@ -1,0 +1,167 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+
+
+
+.container {
+    padding: 50px;
+    background-image: url(th\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.container-1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.section-1-3 a {
+    text-decoration: none;
+    color: white;
+    padding: 2px;
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+.run {
+    margin-left: 20px
+}
+
+.ren-1 {
+    background-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    color: rgb(15, 14, 14);
+    border: solid 1px black;
+    line-height: 30px;
+    height: 350px;
+    width: 270px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    
+}
+
+
+.ren-1 button {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 270px;
+    height: 20px;
+}
+
+.yun,
+.yun-1,
+.yun-2,
+.yun-3 {
+    line-height: 50px;
+    text-align: center;
+}
+
+.ren-2 {
+    background-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    color: rgb(15, 14, 14);
+    border: solid 1px black;
+    line-height: 30px;
+    height: 350px;
+    width: 270px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+
+}
+
+.ren-2 button {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 270px;
+    height: 20px;
+}
+
+.ren-3 {
+    background-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    color: rgb(15, 14, 14);
+    border: solid 0.5px black;
+    line-height: 30px;
+    height: 350px;
+    width: 264px;
+    margin-bottom: 20px;
+    margin-left: 40px;  
+}
+
+.ren-3 button {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 265px;
+    height: 20px;
+}
+
+.ren-4 {
+    background-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    color: rgb(15, 14, 14);
+    border: solid 1px black;
+    line-height: 30px;
+    height: 350px;
+    width: 270px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+
+
+}
+
+.ren-4 button {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 270px;
+    height: 20px;
+}
+
+.ren-5 {
+    padding: 20px;
+    background-color: black;
+    color: azure;
+    text-align: center;
+    table-align;
+
+}
+
+.y1,
+.y2,
+.y3,
+.y4 {
+    text-align: center;
+}
+
+.cent {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pun {
+    background-color: yellow;
+    width:400px;
+    text-align:center;
+    margin-left:16px;
+}
+
